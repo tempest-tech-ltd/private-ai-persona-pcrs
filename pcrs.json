@@ -1,0 +1,26 @@
+{
+  "releases": [
+    {
+      "environment": "qa",
+      "version": "0.23.0",
+      "commit": "85f43d4c52e8808312db99f2162ca2078d7801ec",
+      "image_digest": "sha256:a2dccb769bf1da96bbb259a520762850d9f2d8548d0c3d567501b44f9b2fcae1",
+      "pcr17": "dd3c9fa0e70de2c65af0e89ef2dda4d0a6eeb4126ee2801c30e002fde0f5d44bd090db36e7892886b46b42914082d34e",
+      "released_at": "2026-11-12T11:44:53Z"
+    },
+    {
+      "environment": "prod",
+      "version": "0.23.0",
+      "commit": "85f43d4c52e8808312db99f2162ca2078d7801ec",
+      "image_digest": "sha256:a2dccb769bf1da96bbb259a520762850d9f2d8548d0c3d567501b44f9b2fcae1",
+      "pcr17": "9322909525f0a9b9557dd61033c67558b3778d964ee903992c62d87ac5bb5d9f4caa830f767cf6ae78974e681f9c63bb",
+      "released_at": "2026-11-12T11:41:41Z"
+    }
+  ],
+  "ecs_pcr8": [
+    {
+      "pcr8": "336ea9281fd56a30f9063df7dcf1b5105343a92ed8fd9cdb9841365036141ccc63a938329871e070231c400fde7b3fcb",
+      "first_seen": "2026-11-12"
+    }
+  ]
+}
