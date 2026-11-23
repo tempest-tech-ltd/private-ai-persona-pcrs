@@ -2,6 +2,14 @@
   "releases": [
     {
       "environment": "qa",
+      "version": "0.24.0",
+      "commit": "39110e50f20e9935887f6ab4e17afca1ef7c52ea",
+      "image_digest": "sha256:f72f669c9043f1e54943c3d8bdcfe686806570826c6d94b017f53f4b698aebfb",
+      "pcr17": "2ae887155ccdc9d5b7aa510702a7cd399f5e5d556b0ea47364e4b7ec11f37bfc941731d19dfd66298040b85b30346798",
+      "released_at": "2026-11-23T18:48:16Z"
+    },
+    {
+      "environment": "qa",
       "version": "0.23.0",
       "commit": "85f43d4c52e8808312db99f2162ca2078d7801ec",
       "image_digest": "sha256:a2dccb769bf1da96bbb259a520762850d9f2d8548d0c3d567501b44f9b2fcae1",
