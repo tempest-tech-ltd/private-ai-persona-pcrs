@@ -1,6 +1,14 @@
 {
   "releases": [
     {
+      "environment": "prod",
+      "version": "0.24.0",
+      "commit": "39110e50f20e9935887f6ab4e17afca1ef7c52ea",
+      "image_digest": "sha256:f72f669c9043f1e54943c3d8bdcfe686806570826c6d94b017f53f4b698aebfb",
+      "pcr17": "70ee5762002585cfb95bcb159bcec1708ac21f1283ac309d7e21a27bea7bcb5f7f7975befd1a0f485aa1c6e4e579b67c",
+      "released_at": "2026-11-24T12:41:47Z"
+    },
+    {
       "environment": "qa",
       "version": "0.24.0",
       "commit": "39110e50f20e9935887f6ab4e17afca1ef7c52ea",
